@@ -1,0 +1,8 @@
+Rapport TP Git et GitHub - Zoubidaboukouba
+
+Git est un systeme de controle de version qui permet de suivre l'evolution d'un projet, de conserver l'historique et de revenir a une version anterieure en cas d'erreur.
+Il est utile car il securise le travail et permet de travailler a plusieurs sans ecraser le code des autres.
+GitHub est la plateforme en ligne qui heberge les depots Git pour les partager et collaborer.
+Dans ce TP, j'ai appris a creer un depot sur GitHub, a le cloner dans Google Colab avec la commande git clone.
+J'ai appris les commandes essentielles: git add pour preparer, git commit pour sauvegarder et git push pour envoyer vers GitHub.
+J'ai aussi appris a creer et gerer une branche develop pour developper de nouvelles fonctionnalites separement du main.
