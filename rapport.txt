@@ -6,3 +6,8 @@ GitHub est la plateforme en ligne qui heberge les depots Git pour les partager e
 Dans ce TP, j'ai appris a creer un depot sur GitHub, a le cloner dans Google Colab avec la commande git clone.
 J'ai appris les commandes essentielles: git add pour preparer, git commit pour sauvegarder et git push pour envoyer vers GitHub.
 J'ai aussi appris a creer et gerer une branche develop pour developper de nouvelles fonctionnalites separement du main.
+
+--- Mon projet biotechnologique ---
+Idee de projet: Etude du suivi de l'antibioresistance bacterienne au laboratoire.
+Objectif: Versionner avec Git tous les protocoles d'antibiogramme, les resultats d'analyse et les comptes rendus.
+Interet: Cela permet de tracer l'evolution de la resistance, d'assurer la tracabilite des donnees et de collaborer efficacement.
